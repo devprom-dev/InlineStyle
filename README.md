@@ -11,7 +11,7 @@ Or add the following to your composer.json file
 		"inlinestyle/inlinestyle": "1.0"
 	}
 
-Usage
+Usage (corrected)
 -----
 
 Use composer to download required dependencies.
