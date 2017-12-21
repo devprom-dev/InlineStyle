@@ -45,8 +45,4 @@ stylesheets.
 This class can also be used to apply a given css template to each processed HTML
 file.
 
-    $htmldoc->applyStylesheet(file_get_contents("testfiles/external.css"));
-
-### Retrieving the modified HTML
-
 #---#+++
