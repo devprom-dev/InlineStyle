@@ -40,6 +40,4 @@ stylesheets.
 
     $htmldoc->applyStylesheet($htmldoc->extractStylesheets(null, "http://github.com"));
 
-### Applying additional stylesheets
-
 #---#+++
