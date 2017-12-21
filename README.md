@@ -42,7 +42,4 @@ stylesheets.
 
 ### Applying additional stylesheets
 
-This class can also be used to apply a given css template to each processed HTML
-file.
-
 #---#+++
