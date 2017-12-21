@@ -49,8 +49,4 @@ file.
 
 ### Retrieving the modified HTML
 
-After calling applyStylesheet various times the resulting HTML can be retrieved as a string using getHTML.
-
-    $html = $htmldoc->getHTML();
-
 #---#+++
