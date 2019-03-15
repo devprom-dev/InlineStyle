@@ -1,4 +1,3 @@
-InlineStyle
 ===========
 [![Build Status](https://secure.travis-ci.org/christiaan/InlineStyle.png)](http://travis-ci.org/christiaan/InlineStyle)
 
